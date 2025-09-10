@@ -1,4 +1,4 @@
-function rigid_body_midpoint_demo
+function midpoint_rigid
 clc; close all;
 
 I = diag([1,2,3]);                 % inertia
