@@ -1,0 +1,12 @@
+Running dt = 0.05, N = 400 (T=20 s)
+Cycles estimated from mean period: 28.42
+Cycles (peaks)                 : 28
+Mean period from peaks (s)     : 0.703704
+Cycles (peaks+troughs)/2       : 28.0
+Mean period from half-cycles(s): 0.705455
+Running dt = 0.005, N = 4000 (T=20 s)
+Cycles estimated from mean period: 29.25
+Cycles (peaks)                 : 29
+Mean period from peaks (s)     : 0.683750
+Cycles (peaks+troughs)/2       : 29.0
+Mean period from half-cycles(s): 0.684035
